@@ -35,6 +35,7 @@ These are the repos of some awesome open sourced UI Motion Lirary. Their design 
 [![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 [![License](https://img.shields.io/cocoapods/l/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 [![Platform](https://img.shields.io/cocoapods/p/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
+
 ![image](https://github.com/JustinFincher/JZMultiChoicesCircleButton/raw/master/DemoPic/DemoGiF.gif)
 
 ### tvOSParallaxButton
@@ -44,6 +45,7 @@ These are the repos of some awesome open sourced UI Motion Lirary. Their design 
 [![Version](https://img.shields.io/cocoapods/v/JZtvOSParallaxButton.svg?style=flat)](http://cocoapods.org/pods/JZtvOSParallaxButton)
 [![License](https://img.shields.io/cocoapods/l/JZtvOSParallaxButton.svg?style=flat)](http://cocoapods.org/pods/JZtvOSParallaxButton)
 [![Platform](https://img.shields.io/cocoapods/p/JZtvOSParallaxButton.svg?style=flat)](http://cocoapods.org/pods/JZtvOSParallaxButton)
+
 ![image](https://github.com/JustinFincher/JZtvOSParallaxButton/blob/master/DemoPic/GIF.gif)
 
 ### CinemaAnimation
