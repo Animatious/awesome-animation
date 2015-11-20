@@ -3,13 +3,14 @@ A great list of open sourced UI Motion Library produced by Animatious Group.
 
 这里将列出全部由**Animatious一起动画开源组**成员原创或非原创实现的开源动效库的仓库地址，由于有一些仓库属于个人repo，因此为了尊重大家的劳动成果，收录在此。列表会不断更新，敬请留意。
 
+These are the repos of some awesome open sourced UI Motion Lirary. Their design or implementation are originally created by members of **Animatious Group**.The list will be kept updating, please check this repo regularly.
+
 > 每个完成的项目都表明了设计者和不同平台，不同语言的开发者的仓库出处。
 
 ## Last updated
 2015-11-15
 
 ## Project List
-[Replace-iOS](###Replace-iOS)
 
 ### Replace-iOS
 
