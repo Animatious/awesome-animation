@@ -15,7 +15,7 @@ These are the repos of some awesome open sourced UI Motion Lirary. Their design 
 ### Replace-iOS
 
 * Objective-C：MartinRGB - [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) 
-* Design：Zee Young - [Dribble](https://dribbble.com/shots/2067564-Replace?list=searches&offset=0)
+* Design：Zee Young - [Dribbble](https://dribbble.com/shots/2067564-Replace?list=searches&offset=0)
 
 ![image](https://github.com/MartinRGB/Replace-iOS/raw/master/1.gif?raw=true)
 
@@ -23,13 +23,13 @@ These are the repos of some awesome open sourced UI Motion Lirary. Their design 
 ### TrelloNavigation
 * Objective-C：SergioChan - [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)
 * Swift：DianQK - [DKTrelloNavigation](https://github.com/DianQK/TrelloNavigation)
-* Design：Aurélien Salomon - [Dribble](https://dribbble.com/shots/2114816-Trello-Navigation)
+* Design：Aurélien Salomon - [Dribbble](https://dribbble.com/shots/2114816-Trello-Navigation)
   
 ![image](https://raw.githubusercontent.com/DianQK/TrelloNavigation/master/Preview/demo.gif)
 
 ### MultiChoicesCircleButton
 * Objective-C：Just Fincher - [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) 
-* Design：Nicola Felasquez Felaco - [Dribble](https://dribbble.com/shots/2293573-Pubbblish)
+* Design：Nicola Felasquez Felaco - [Dribbble](https://dribbble.com/shots/2293573-Pubbblish)
   
 [![CI Status](http://img.shields.io/travis/Fincher Justin/JZMultiChoicesCircleButton.svg?style=flat)](https://travis-ci.org/Fincher Justin/JZMultiChoicesCircleButton)
 [![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
@@ -51,13 +51,18 @@ These are the repos of some awesome open sourced UI Motion Lirary. Their design 
 ### CinemaAnimation
 * Objective-C：Sergio Chan - [SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation)
 * Android：DavidWangTM - [DWCinemaAnimation-Android](https://github.com/DavidWangTM/DWCinemaAnimation-Android)
-* Design：Xer.Lee - [Dribble](https://dribbble.com/shots/2339238-Animation-for-Cinema-Application)
+* Design：Xer.Lee - [Dribbble](https://dribbble.com/shots/2339238-Animation-for-Cinema-Application)
   
 ![image](https://raw.githubusercontent.com/SergioChan/SCCinemaAnimation/master/Image/preview.gif)
 
 ### PrivateTrainerAnimation
 * Swift：MartinRGB - [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * Android：DavidWangTM - [DWPrivateTrainerAnimation](https://github.com/DavidWangTM/DWPrivateTrainerAnimation)
-* Design：MartinRGB - [Dribble](https://dribbble.com/shots/2346124-Private-Trainer-Course-List)
+* Design：MartinRGB - [Dribbble](https://dribbble.com/shots/2346124-Private-Trainer-Course-List)
   
 ![image](https://github.com/MartinRGB/MTPrivateTrainerAnimation/raw/master/Design.gif?raw=true)
+
+### CatWaitingHUD
+* Objective-C：Sergio Chan - [SCCatWaitingHUD](https://github.com/SergioChan/SCCatWaitingHUD)
+
+![image](https://raw.githubusercontent.com/SergioChan/SCCatWaitingHUD/master/Preview/preview.gif)
