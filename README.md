@@ -8,7 +8,7 @@ These are the repos of some awesome open sourced UI Motion Lirary. Their design 
 > 每个完成的项目都表明了设计者和不同平台，不同语言的开发者的仓库出处。
 
 ## Last updated
-2015-12-10
+2016-3-13
 
 ## Project List
 
@@ -66,3 +66,13 @@ These are the repos of some awesome open sourced UI Motion Lirary. Their design 
 *  Swift: mmoaay - [MBMotion](https://github.com/mmoaay/MBMotion)
 
 ![image](https://github.com/mmoaay/MBMotion/raw/master/MBMotion.gif)
+
+### SpreadButton
+* Objective-C & Swift: liuzhiyi1992 - [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton)
+
+![image](https://raw.githubusercontent.com/liuzhiyi1992/MyStore/master/%E9%80%81%E6%99%BA1.gif)
+
+### WaveLoadingView
+* Swift: liuzhiyi1992 - [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView)
+
+![image](https://raw.githubusercontent.com/liuzhiyi1992/WaveLoadingView/master/WaveLoadingView/2016-01-19%2010_26_10.gif)
